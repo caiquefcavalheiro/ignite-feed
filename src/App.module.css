@@ -1,0 +1,11 @@
+.wrapper {
+  max-width: 70rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  display: grid;
+  grid-template-columns: 256px 1fr;
+  gap: 2rem;
+  /* limita o tamanho da caixa não fazendo crescer infinitamente para baixo */
+  align-items: flex-start;
+}
