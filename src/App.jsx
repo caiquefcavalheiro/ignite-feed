@@ -10,7 +10,7 @@ const posts = [
     author: {
       avatarUrl: "https://github.com/caiquefcavalheiro.png",
       name: "Caique Cavalheiro",
-      role: "full stack developer",
+      role: "Full Stack Developer",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
