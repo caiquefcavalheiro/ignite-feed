@@ -12,7 +12,7 @@ function App() {
         <Sidebar></Sidebar>
         <main>
           <Post
-            author="Diego Fernandes"
+            author="Caique Cavalheiro"
             content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime nisi voluptatum vero distinctio, quidem magni at voluptatibus. Sunt, soluta expedita, doloremque quo ex odit asperiores at quidem minima odio illo!"></Post>
           <Post
             author="Gabriel Buzzi"
